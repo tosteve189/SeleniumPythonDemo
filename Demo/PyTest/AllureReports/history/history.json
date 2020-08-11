@@ -1,0 +1,89 @@
+{
+  "ff08529fa96bdcc492800bada48f4529" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d156e774179adae8",
+      "reportUrl" : "http://localhost:8181/job/SeleniumPytest/5/allure/#testresult/d156e774179adae8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596866066553,
+        "stop" : 1596866066557,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "e465d6db919f9e56",
+      "reportUrl" : "http://localhost:8181/job/SeleniumPytest/4/allure/#testresult/e465d6db919f9e56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596866066553,
+        "stop" : 1596866066557,
+        "duration" : 4
+      }
+    } ]
+  },
+  "cc7d82b2233305fd9176a08bf916f730" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c311d0565805c860",
+      "reportUrl" : "http://localhost:8181/job/SeleniumPytest/5/allure/#testresult/c311d0565805c860",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596866066525,
+        "stop" : 1596866066529,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "6c4ce9937d2d422",
+      "reportUrl" : "http://localhost:8181/job/SeleniumPytest/4/allure/#testresult/6c4ce9937d2d422",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596866066525,
+        "stop" : 1596866066529,
+        "duration" : 4
+      }
+    } ]
+  },
+  "301cadae365e42002f05d688e9a875a0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "fdda6b1717b2bc81",
+      "reportUrl" : "http://localhost:8181/job/SeleniumPytest/5/allure/#testresult/fdda6b1717b2bc81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596866066569,
+        "stop" : 1596866066569,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "624fbae55cd2b903",
+      "reportUrl" : "http://localhost:8181/job/SeleniumPytest/4/allure/#testresult/624fbae55cd2b903",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596866066569,
+        "stop" : 1596866066569,
+        "duration" : 0
+      }
+    } ]
+  }
+}

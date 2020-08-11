@@ -1,0 +1,50 @@
+{
+  "uid" : "730fc04468dc9fff",
+  "name" : "test_calc_sum_1",
+  "fullName" : "test_html_report#test_calc_sum_1",
+  "historyId" : "534e99aba759474506b2bdb034ae4d66",
+  "time" : {
+    "start" : 1597104721217,
+    "stop" : 1597104721219,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_html_report"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1K4UE6L"
+  }, {
+    "name" : "thread",
+    "value" : "7876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_html_report"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "730fc04468dc9fff.json",
+  "parameterValues" : [ ]
+}

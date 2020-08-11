@@ -1,0 +1,53 @@
+{
+  "uid" : "92a6031d5d33c005",
+  "name" : "test_windows_2",
+  "fullName" : "test_skip_os#test_windows_2",
+  "historyId" : "318e4113d15dc70770283a35b04fde15",
+  "time" : {
+    "start" : 1597104915200,
+    "stop" : 1597104915201,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "windows"
+  }, {
+    "name" : "suite",
+    "value" : "test_skip_os"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1K4UE6L"
+  }, {
+    "name" : "thread",
+    "value" : "7876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_skip_os"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "windows" ]
+  },
+  "source" : "92a6031d5d33c005.json",
+  "parameterValues" : [ ]
+}

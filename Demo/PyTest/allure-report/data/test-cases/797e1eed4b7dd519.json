@@ -1,0 +1,55 @@
+{
+  "uid" : "797e1eed4b7dd519",
+  "name" : "test_demo_1",
+  "fullName" : "test_skip_1#test_demo_1",
+  "historyId" : "55fddaeab2215d7e3fc506a26099c3ab",
+  "time" : {
+    "start" : 1597104915083,
+    "stop" : 1597104915083,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: Not included in this build",
+  "statusTrace" : "('C:\\\\Users\\\\PC\\\\PycharmProjects\\\\Selenium\\\\Demo\\\\PyTest\\\\test_skip_1.py', 9, 'Skipped: Not included in this build')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip(reason='Not included in this build')"
+  }, {
+    "name" : "suite",
+    "value" : "test_skip_1"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1K4UE6L"
+  }, {
+    "name" : "thread",
+    "value" : "7876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_skip_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip(reason='Not included in this build')" ]
+  },
+  "source" : "797e1eed4b7dd519.json",
+  "parameterValues" : [ ]
+}

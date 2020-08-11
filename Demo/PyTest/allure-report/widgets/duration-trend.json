@@ -1,0 +1,22 @@
+[ {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8181/job/SeleniumPytest/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 301359
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8181/job/SeleniumPytest/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 44
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8181/job/SeleniumPytest/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 44
+  }
+} ]
